@@ -188,49 +188,64 @@ o Save the final modified image to your local directory.
 
 
 ## Output:
-1. ORIGINAL IMAGE
-   <Figure size 640x480 with 1 Axes><img width="493" height="409" alt="image" src="https://github.com/user-attachments/assets/944b272d-c49c-4888-8808-84ed82b43a2e" />
+        1. ORIGINAL IMAGE
+        
+<img width="493" height="409" alt="image" src="https://github.com/user-attachments/assets/944b272d-c49c-4888-8808-84ed82b43a2e" />
 
-2. IMAGE WITH LINE
-   <img width="632" height="493" alt="image" src="https://github.com/user-attachments/assets/5ff6b8d1-09be-42f0-adb7-772af9137f9c" />
+        2. IMAGE WITH LINE
+        
+<img width="632" height="493" alt="image" src="https://github.com/user-attachments/assets/5ff6b8d1-09be-42f0-adb7-772af9137f9c" />
 
-3. IMAGE WITH CIRCLE
+        3. IMAGE WITH CIRCLE
+        
 <img width="634" height="494" alt="image" src="https://github.com/user-attachments/assets/12599706-6501-4e41-aaef-1551ac2e8f52" />
 
-4, IMAGE WITH RECTANGLE 
+        4, IMAGE WITH RECTANGLE 
+        
 <img width="634" height="493" alt="image" src="https://github.com/user-attachments/assets/92bd86ff-9a3c-4516-b8d4-04a739334f83" />
 
-5. IMAGE WITH TEXT
+        5. IMAGE WITH TEXT
+        
 <img width="632" height="497" alt="image" src="https://github.com/user-attachments/assets/a1d9feac-893c-4bd3-967a-08986880f3c7" />
 
-6. ORIGINAL RGB IMAGE
+        6. ORIGINAL RGB IMAGE
+        
 <img width="634" height="497" alt="image" src="https://github.com/user-attachments/assets/45ee6209-642b-46e6-8e2c-fa12a7be6eea" />
 
-7. HSV IMAGE
+        7. HSV IMAGE
+        
 <img width="631" height="489" alt="image" src="https://github.com/user-attachments/assets/176a1ec1-2279-423d-b10a-3bef5afb4cbf" />
 
-8.GRAYSCALE IMAGE
+        8.GRAYSCALE IMAGE
+        
 <img width="634" height="494" alt="image" src="https://github.com/user-attachments/assets/4def687a-5329-4f44-be84-4b60a9b12afb" />
 
-9. YCRCB IMAGE
+        9. YCRCB IMAGE
+        
 <img width="636" height="490" alt="image" src="https://github.com/user-attachments/assets/4b6d4de6-6fa5-45f9-a162-e126a8cba078" />
 
-10. HSV TO RGB IMAGE
+        10. HSV TO RGB IMAGE
+        
 <img width="632" height="491" alt="image" src="https://github.com/user-attachments/assets/f074f745-e4cc-46c4-a2ef-78f6e2965ec3" />
-
-11. IMAGE WITH 300X300 WHITE BLOCK
+        
+        11. IMAGE WITH 300X300 WHITE BLOCK
+        
 <img width="634" height="497" alt="image" src="https://github.com/user-attachments/assets/3bd8be6f-2777-45b0-a666-5c2fddfb611f" />
 
-12. RESIZED IMAGE (HALF SIZE)
+        12. RESIZED IMAGE (HALF SIZE)
+        
 <img width="634" height="496" alt="image" src="https://github.com/user-attachments/assets/74e7f23d-a3b5-45cc-9cd5-ff2b809abe74" />
 
-13. CROPPED REGION OF INTEREST (ROI)
+        13. CROPPED REGION OF INTEREST (ROI)
+        
 <img width="493" height="493" alt="image" src="https://github.com/user-attachments/assets/8e0158e5-243a-40b6-9639-5c5053c568ae" />
 
-14. FLIPPED HORIZONTALLY
+        14. FLIPPED HORIZONTALLY
+        
 <img width="630" height="493" alt="image" src="https://github.com/user-attachments/assets/7f3d2a83-a503-4789-94f6-39f414e35a27" />
 
-15. FLIPPED VERTICALLY
+        15. FLIPPED VERTICALLY
+        
 <img width="629" height="488" alt="image" src="https://github.com/user-attachments/assets/3661e6af-e140-426e-a863-22070ab520a2" />
 
 ## Result:
